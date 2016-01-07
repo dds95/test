@@ -28,15 +28,6 @@ import cn.com.shoulou.demain.TBean;
 import cn.com.shoulou.util.WebServiceUtils.WebServiceCallBack;
 
 public class TKMorePopWindow extends PopupWindow   {
-	private View conentView;
-	private LinearLayout ll;
-	private LinearLayout ll2;
-	private Context context;
-	private LinearLayout ll3;
-//	private LinearLayout ll4;
-	private TextView tv1,tv2;
-	private List<TBean> beans;
-	private ListView lv;
-	public TKMorePopWindow(final Activity context) {
+	
 		
 }
